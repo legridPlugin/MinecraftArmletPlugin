@@ -43,11 +43,7 @@ public final class NewPlugin extends JavaPlugin implements Listener {
                 }
             }
         return true;
-    }
-
-
-
-}
+    }}
 
 
 
